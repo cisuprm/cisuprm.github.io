@@ -2,10 +2,24 @@
 layout: post
 title: IEEE CIS UPRM is Official!
 subtitle: A New Era for Computational Intelligence at UPRM
-categories: ieee
-tags: [ieee, cis, uprm, ai, machine-learning]
+author: Sebastián A. Cruz Romero
+categories: news
+banner:
+  video:
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://cdn.prod.website-files.com/6130fa1501794e37c21867cf/6191940bd6736d53c3c74c0e_6133a4c49506d6b63519fae5_press-release-series-a.gif
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: [news]
+top: 1
+sidebar: []
 ---
-
 ## 🎉 Celebrating Recognition! 🎉
 
 ![IEEE CIS UPRM Logo](/assets/images/cis-logo.png){: .center-block width="250" height="250"}
