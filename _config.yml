@@ -243,11 +243,14 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+# theme: jekyll-theme-yat
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-
-theme: jekyll-theme-yat
