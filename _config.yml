@@ -250,4 +250,4 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-theme: jekyll-theme-yat
+remote_theme: jekyll-theme-yat
