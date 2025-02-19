@@ -1,5 +1,10 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
-gem "jekyll-remote-theme", group: :jekyll_plugins
+
+gem "minima", "~> 2.5"
+gem "webrick"
+group :jekyll_plugins do
+    gem "github-pages"
+    gem "jekyll-feed", "~> 0.12"
+end
